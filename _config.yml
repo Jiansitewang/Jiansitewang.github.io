@@ -68,7 +68,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "不想只做个前端，想做个前端工程师"
+sidebar-about-description: "不止于前端"
 sidebar-avatar: /img/avatar-Wak.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
